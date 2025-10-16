@@ -1,0 +1,145 @@
+Country,Text,Translation,Type,Item,Region1,Region2,Region3,Region4
+BCS,Conocían al atleta que venció finalmente al corredor el año pasado.,They knew the athlete that finally beat the runner last year.,SAA,1,5,6,7-8,9-11
+BCS,Conocían la enfermedad que venció finalmente al corredor el año pasado.,They knew the illness that finally beat the runner last year.,SIA,1,5,6,7-8,9-11
+BCS,Conocían al atleta que venció finalmente el corredor el año pasado.,They knew the athlete that the runner finally beat last year.,OAA,1,5,6,7-8,9-11
+BCS,Conocían la enfermedad que venció finalmente el corredor el año pasado.,They knew the illness that the runner finally beat last year.,OIA,1,5,6,7-8,9-11
+BCS,Antonio leyó al periodista que criticó duramente al escritor durante el certamen.,Antonio read to the journalist that harshly criticized the writer during the meeting.,SAA,2,6,7,8-9,10-11
+BCS,Antonio leyó el artículo que criticó duramente al escritor durante el certamen.,Antonio read the article that harshly criticized the writer during the meeting.,SIA,2,6,7,8-9,10-11
+BCS,Antonio leyó al periodista que criticó duramente el escritor durante el certamen.,Antonio read to the journalist that the writer harshly criticized during the meeting.,OAA,2,6,7,8-9,10-11
+BCS,Antonio leyó el artículo que criticó duramente el escritor durante el certamen.,Antonio read the article that the writer harshly criticized during the meeting.,OIA,2,6,7,8-9,10-11
+BCS,Aplaudieron al actor que llevó ese año al director a los óscars.,They applauded the actor that this year led the director to the Oscars.,SAA,3,5,6-7,8-9,10-12
+BCS,Aplaudieron la película que llevó ese año al director a los óscars.,They applauded the film that this year led the director to the Oscars.,SIA,3,5,6-7,8-9,10-12
+BCS,Aplaudieron al actor que llevó ese año el director a los óscars.,They applauded the actor that this year led the director to the Oscars.,OAA,3,5,6-7,8-9,10-12
+BCS,Aplaudieron la película que llevó ese año el director a los óscars.,They applauded the film that the director this year led to the Oscars.,OIA,3,5,6-7,8-9,10-12
+BCS,Conocían al abogado que ocultó premeditadamente al político del escándalo.,They knew the lawyer that with premeditation hid the politician from the scandal.,SAA,4,5,6,7-8,9-10
+BCS,Conocían el informe que ocultó premeditadamente al político del escándalo.,They knew the report that with premeditation hid the politician from the scandal.,SIA,4,5,6,7-8,9-10
+BCS,Conocían al abogado que ocultó premeditadamente el político del escándalo.,They knew the lawyer that with premeditation hid the politician from the scandal.,OAA,4,5,6,7-8,9-10
+BCS,Conocían el informe que ocultó premeditadamente el político del escándalo.,They knew the report that with premeditation hid the politician from the scandal.,OIA,4,5,6,7-8,9-10
+BCS,Los socios vieron al contable que censuró duramente al director en la junta.,The associates saw the accountant that harshly censured the director in the meeting.,SAA,5,7,8,9-10,11-13
+BCS,Los socios vieron el documento que censuró duramente al director en la junta.,The associates saw the document that harshly censured the director in the meeting.,SIA,5,7,8,9-10,11-13
+BCS,Los socios vieron al contable que censuró duramente el director en la junta.,The associates saw the accountant that the director harshly censured in the meeting.,OAA,5,7,8,9-10,11-13
+BCS,Los socios vieron el documento que censuró duramente el director en la junta.,The associates saw the document that the director harshly censured in the meeting.,OIA,5,7,8,9-10,11-13
+BCS,Aplaudieron al mecenas que sacó súbitamente al artista del anonimato.,They applauded the patron that quickly brought back the artist from anonymity.,SAA,6,5,6,7-8,9-10
+BCS,Aplaudieron la escultura que sacó súbitamente al artista del anonimato.,They applauded the sculpture that quickly brought back the artist from anonymity.,SIA,6,5,6,7-8,9-10
+BCS,Aplaudieron al mecenas que sacó súbitamente el artista del anonimato.,They applauded the patron that the artist quickly brought back from anonymity.,OAA,6,5,6,7-8,9-10
+BCS,Aplaudieron la escultura que sacó súbitamente el artista del anonimato.,They applauded the sculpture that the artist quickly brought back from anonymity.,OIA,6,5,6,7-8,9-10
+BCS,Denunciaron al cirujano que acusó en público al médico de calumniador.,They denounced the surgeon that overtly accused the doctor of being a slanderer.,SAA,7,5,6-7,8-9,10-11
+BCS,Denunciaron el informe que acusó en público al médico de calumniador.,They denounced the report that overtly accused the doctor of being a slanderer.,SIA,7,5,6-7,8-9,10-11
+BCS,Denunciaron al cirujano que acusó en público el médico de calumniador.,They denounced the surgeon that the doctor overtly accused of being a slanderer.,OAA,7,5,6-7,8-9,10-11
+BCS,Denunciaron el informe que acusó en público el médico de calumniador.,They denounced the file that the doctor overtly accused of being a slanderer.,OIA,7,5,6-7,8-9,10-11
+BCS,El banco apoyó al director que financiaba fuertemente al ejecutivo de inversiones.,The bank supported the director that strongly funded the executive of the investment fund.,SAA,8,7,8,9-10,11-12
+BCS,El banco apoyó el proyecto que financiaba fuertemente al ejecutivo de inversiones.,The bank supported the plan that strongly funded the executive of the investment fund.,SIA,8,7,8,9-10,11-12
+BCS,El banco apoyó al director que financiaba fuertemente el ejecutivo de inversiones.,The bank supported the director that the executive of the investment fund strongly funded.,OAA,8,7,8,9-10,11-12
+BCS,El banco apoyó el proyecto que financiaba fuertemente el ejecutivo de inversiones.,The bank supported the project that the executive of the investment fund strongly funded.,OIA,8,7,8,9-10,11-12
+BCS,Censuraron al periodista que denunció duramente al político a través de la radio.,They censored the journalist that directly denounced the politician through the radio.,SAA,9,5,6,7-8,9-13
+BCS,Censuraron el programa que denunció duramente al político a través de la radio.,They censored the program that directly denounced the politician through the radio.,SIA,9,5,6,7-8,9-13
+BCS,Censuraron al periodista que denunció duramente el político a través de la radio.,They censored the journalist that the politician directly denounced through the radio.,OAA,9,5,6,7-8,9-13
+BCS,Censuraron el programa que denunció duramente el político a través de la radio.,They censored the program that the politician directly denounced through the radio.,OIA,9,5,6,7-8,9-13
+BCS,Investigaron al testigo que señalaba claramente al asesino durante el juicio.,They investigated the witness that clearly signaled to the murderer during the judgement.,SAA,10,5,6,7-8,9-11
+BCS,Investigaron la prueba que señalaba claramente al asesino durante el juicio.,They investigated the evidence that clearly pointed to the murderer during the judgement.,SIA,10,5,6,7-8,9-11
+BCS,Investigaron al testigo que señalaba claramente el asesino durante el juicio.,They investigated the witness that the murderer clearly signalled to during the judgement.,OAA,10,5,6,7-8,9-11
+BCS,Investigaron la prueba que señalaba claramente el asesino durante el juicio.,They investigated the evidence that the murderer clearly pointed to during the judgement.,OIA,10,5,6,7-8,9-11
+BCS,Criticaron al político que superó ilegalmente al candidato en el partido.,They criticized the politician that illegally overcame the candidate in the party.,SAA,11,5,6,7-8,9-11
+BCS,Criticaron la votación que superó ilegalmente al candidato en el partido.,They criticized the poll that illegally overcame the candidate in the party.,SIA,11,5,6,7-8,9-11
+BCS,Criticaron al político que superó ilegalmente el candidato en el partido.,They criticized the politician that the candidate illegally overcame in the party.,OAA,11,5,6,7-8,9-11
+BCS,Criticaron la votación que superó ilegalmente el candidato en el partido.,They criticized the poll that the candidate illegally overcame in the party.,OIA,11,5,6,7-8,9-11
+BCS,Asaltaron al secretario que recogió esa tarde al ejecutivo en la estación.,They attacked the secretary that picked up the executive this afternoon at the station.,SAA,12,5,6-7,8-9,10-12
+BCS,Asaltaron el coche que recogió esa tarde al ejecutivo en la estación.,They attacked the car that picked up the executive this afternoon at the station.,SIA,12,5,6-7,8-9,10-12
+BCS,Asaltaron al secretario que recogió esa tarde el ejecutivo en la estación.,They attacked the secretary that the executive picked up this afternoon at the station.,OAA,12,5,6-7,8-9,10-12
+BCS,Asaltaron el coche que recogió esa tarde el ejecutivo en la estación.,They attacked the car that the executive picked up this afternoon at the station.,OIA,12,5,6-7,8-9,10-12
+BCS,El vecino vio al perro que destrozó por completo al motorista en el cruce.,The neighbour saw the dog that completely destroyed the motorist at the crossroads.,SAA,13,7,8-9,10-11,12-14
+BCS,El vecino vio el vehículo que destrozó por completo al motorista en el cruce.,The neighbour saw the car that completely destroyed the motorist at the crossroads.,SIA,13,7,8-9,10-11,12-14
+BCS,El vecino vio al perro que destrozó por completo el motorista en el cruce.,The neighbour saw the dog that the motorist completely destroyed at the crossroads.,OAA,13,7,8-9,10-11,12-14
+BCS,El vecino vio el vehículo que destrozó por completo el motorista en el cruce.,The neighbour saw the car that the motorist completely destroyed at the crossroads.,OIA,13,7,8-9,10-11,12-14
+BCS,La policía paró al conductor que remolcó ayer al camionero en la carretera.,The police stopped the driver that towed the trucker yesterday on the highway.,SAA,14,7,8,9-10,11-13
+BCS,La policía paró el tractor que remolcó ayer al camionero en la carretera.,The police stopped the tractor that towed the trucker yesterday on the highway.,SIA,14,7,8,9-10,11-13
+BCS,La policía paró al conductor que remolcó ayer el camionero en la carretera.,The police stopped the driver that the trucker towed yesterday on the highway.,OAA,14,7,8,9-10,11-13
+BCS,La policía paró el tractor que remolcó ayer el camionero en la carretera.,The police stopped the tractor that towed the trucker yesterday on the highway.,OIA,14,7,8,9-10,11-13
+BCS,La defensa aceptó al testigo que señalo rotundamente al terrorista durante el juicio.,The defence accepted the witness that signalled emphatically to the terrorist during the judgement.,SAA,15,7,8,9-10,11-13
+BCS,La defensa aceptó la prueba que señalo rotundamente al terrorista durante el juicio.,The defence accepted the evidence that pointed emphatically to the terrorist during the judgement.,SIA,15,7,8,9-10,11-13
+BCS,La defensa aceptó al testigo que señalo rotundamente el terrorista durante el juicio.,The defence accepted the witness that the terrorist emphatically signalled to during the judgement.,OAA,15,7,8,9-10,11-13
+BCS,La defensa aceptó la prueba que señalo rotundamente el terrorista durante el juicio.,The defence accepted the evidence that the terrorist emphatically pointed to during the judgement.,OIA,15,7,8,9-10,11-13
+BCS,Premiaron al asesor que llevó recientemente al candidato al éxito.,They rewarded the advisor that recently led the candidate to success.,SAA,16,5,6,7-8,9-10
+BCS,Premiaron el programa que llevó recientemente al candidato al éxito.,They rewarded the programme that recently led the candidate to success.,SIA,16,5,6,7-8,9-10
+BCS,Premiaron al asesor que llevó recientemente el candidato al éxito.,They rewarded the advisor that the candidate recently led to success.,OAA,16,5,6,7-8,9-10
+BCS,Premiaron el programa que llevó recientemente el candidato al éxito.,They rewarded the programme that the candidate recently led to success,OIA,16,5,6,7-8,9-10
+BCS,Vieron al anciano que arrolló súbitamente al joven durante el desfile.,They saw the old man that suddenly bumped into the youth during the parade.,SAA,17,5,6,7-8,9-11
+BCS,Vieron el coche que arrolló súbitamente al joven durante el desfile.,They saw the car that suddenly ran into the youth during the parade.,SIA,17,5,6,7-8,9-11
+BCS,Vieron al anciano que arrolló súbitamente el joven durante el desfile.,They saw the old man that the youth suddenly bumped into during the parade.,OAA,17,5,6,7-8,9-11
+BCS,Vieron el coche que arrolló súbitamente el joven durante el desfile.,They saw the car that the youth suddenly bumped into during the parade.,OIA,17,5,6,7-8,9-11
+BCS,Conocían al mecenas que promocionó ese año al arquitecto en la ciudad.,They knew the patron that promoted the architect this year in the city.,SAA,18,5,6-7,8-9,10-12
+BCS,Conocían el edificio que promocionó ese año al arquitecto en la ciudad.,They knew the building that promoted the architect this year in the city.,SIA,18,5,6-7,8-9,10-12
+BCS,Conocían al mecenas que promocionó ese año el arquitecto en la ciudad.,They knew the patron that the architect promoted this year in the city.,OAA,18,5,6-7,8-9,10-12
+BCS,Conocían el edificio que promocionó ese año el arquitecto en la ciudad.,They knew the building that the architect promoted this year in the city.,OIA,18,5,6-7,8-9,10-12
+BCS,Secuestraron al capitán que recogió aquella tarde al coronel en el aeródromo.,They kidnapped the captain that picked up the colonel this afternoon at the airport.,SAA,19,5,6-7,8-9,10-12
+BCS,Secuestraron el avión que recogió aquella tarde al coronel en el aeródromo.,They hijacked the plane that picked up the colonel this afternoon at the airport.,SIA,19,5,6-7,8-9,10-12
+BCS,Secuestraron al capitán que recogió aquella tarde el coronel en el aeródromo.,They kidnapped the captain that the colonel picked up this afternoon at the airport.,OAA,19,5,6-7,8-9,10-12
+BCS,Secuestraron el avión que recogió aquella tarde el coronel en el aeródromo.,They hijacked the plane that the colonel picked up this afternoon at the airport.,OIA,19,5,6-7,8-9,10-12
+BCS,El juez cronometró al aspirante que batió ampliamente al campeón en la carrera.,The judge timed the opponent that easily beat the champion in the race.,SAA,20,7,8,9-10,11-13
+BCS,El juez cronometró la marca que batió ampliamente al campeón en la carrera.,The judge timed the record that easily beat the champion in the race.,SIA,20,7,8,9-10,11-13
+BCS,El juez cronometró al aspirante que batió ampliamente el campeón en la carrera.,The judge timed the opponent that the champion easily beat in the race.,OAA,20,7,8,9-10,11-13
+BCS,El juez cronometró la marca que batió ampliamente el campeón en la carrera.,The judge timed the record that the champion easily beat in the race.,OIA,20,7,8,9-10,11-13
+BCS,Luis defendió al abogado que confundió esa mañana al director del Banco.,Luis defended the lawyer that confused the director of the bank this morning.,SAA,21,6,7-8,9-10,11-12
+BCS,Luis defendió el presupuesto que confundió esa mañana al director del Banco.,Luis defended the budget that confused the director of the bank this morning.,SIA,21,6,7-8,9-10,11-12
+BCS,Luis defendió al abogado que confundió esa mañana el director del Banco.,Luis defended the lawyer that the director of the bank mistook this morning.,OAA,21,6,7-8,9-10,11-12
+BCS,Luis defendió el presupuesto que confundió esa mañana el director del Banco.,Luis defended the budget that the director of the bank mistook this morning.,OIA,21,6,7-8,9-10,11-12
+BCS,El cirujano operó al policía que salvó finalmente al joven de la muerte.,The surgeon operated on the policeman that finally saved the youth from death.,SAA,22,7,8,9-10,11-13
+BCS,El cirujano operó el riñón que salvó finalmente al joven de la muerte.,The surgeon operated on the kidney that finally saved the youth from death.,SIA,22,7,8,9-10,11-13
+BCS,El cirujano operó al policía que salvó finalmente el joven de la muerte.,The surgeon operated on the policeman that the youth finally saved from death.,OAA,22,7,8,9-10,11-13
+BCS,El cirujano operó el riñón que salvó finalmente el joven de la muerte.,The surgeon operated on the kidney that the youth finally saved from death.,OIA,22,7,8,9-10,11-13
+BCS,Vitorearon al boxeador que tiró duramente al aspirante en el cuadrilátero.,They cheered the boxer that harshly knocked down the candidate in the ring.,SAA,23,5,6,7-8,9-11
+BCS,Vitorearon el golpe que tiró duramente al aspirante en el cuadrilátero.,They cheered the hit that harshly knocked down the candidate in the ring.,SIA,23,5,6,7-8,9-11
+BCS,Vitorearon al boxeador que tiró duramente el aspirante en el cuadrilátero.,They cheered the boxer that the candidate harshly knocked down in the ring.,OAA,23,5,6,7-8,9-11
+BCS,Vitorearon el golpe que tiró duramente el aspirante en el cuadrilátero.,They cheered the hit that the candidate harshly launched in the ring,OIA,23,5,6,7-8,9-11
+BCS,La competencia manipuló al piloto que superó ampliamente al campeón en la final.,The competition affected the pilot that easily overcame the champion in the final.,SAA,24,7,8,9-10,11-13
+BCS,La competencia manipuló el coche que superó ampliamente al campeón en la final.,The competition affected the car that easily overcame the champion in the final.,SIA,24,7,8,9-10,11-13
+BCS,La competencia manipuló al piloto que superó ampliamente el campeón en la final.,The competition affected the pilot that the champion easily overcame in the final.,OAA,24,7,8,9-10,11-13
+BCS,La competencia manipuló el coche que superó ampliamente el campeón en la final.,The competition affected the car that the champion easily overcame in the final.,OIA,24,7,8,9-10,11-13
+BCS,La audiencia ovacionó al solista que llevó ese año al director al certamen.,The audience applauded the soloist that took the director to the competition this year.,SAA,25,7,8-9,10-11,12-13
+BCS,La audiencia ovacionó la sonata que llevó ese año al director al certamen.,The audience applauded the sonata that took the director to the competition this year.,SIA,25,7,8-9,10-11,12-13
+BCS,La audiencia ovacionó al solista que llevó ese año el director al certamen.,The audience applauded the soloist that the director took to the competition this year.,OAA,25,7,8-9,10-11,12-13
+BCS,La audiencia ovacionó la sonata que llevó ese año el director al certamen.,The audience applauded the sonata that the director took to the competition this year.,OIA,25,7,8-9,10-11,12-13
+BCS,El reportero conocía al abogado que salvó finalmente al millonario de la ruina.,The journalist knew the lawyer that finally saved the millionaire from the crash.,SAA,26,7,8,9-10,11-13
+BCS,El reportero conocía la inversión que salvó finalmente al millonario de la ruina.,The journalist knew the investment that finally saved the millionaire from the crash.,SIA,26,7,8,9-10,11-13
+BCS,El reportero conocía al abogado que salvó finalmente el millonario de la ruina.,The journalist knew the lawyer that the millionaire finally saved from the crash.,OAA,26,7,8,9-10,11-13
+BCS,El reportero conocía la inversión que salvó finalmente el millonario de la ruina.,The journalist knew the investment that the millionaire finally saved from the crash.,OIA,26,7,8,9-10,11-13
+BCS,El botones reconoció al policía que descubrió súbitamente al espía en el hotel.,The bellboy recognized the policeman that discovered the spy by chance in the hotel.,SAA,27,7,8,9-10,11-13
+BCS,El botones reconoció la firma que descubrió súbitamente al espía en el hotel.,The bellboy recognized the signature that revealed the spy by chance in the hotel.,SIA,27,7,8,9-10,11-13
+BCS,El botones reconoció al policía que descubrió súbitamente el espía en el hotel.,The bellboy recognized the policeman that the spy discovered by chance in the hotel.,OAA,27,7,8,9-10,11-13
+BCS,El botones reconoció la firma que descubrió súbitamente el espía en el hotel.,The bellboy recognized the signature that the spy discovered by chance in the hotel.,OIA,27,7,8,9-10,11-13
+BCS,El jurado eligió al vocalista que llevó justamente al grupo al premio final.,The committee chose the vocalist that led the band justly to the final prize.,SAA,28,7,8,9-10,11-13
+BCS,El jurado eligió la canción que llevó justamente al grupo al premio final.,The committee chose the song that led the band justly to the final prize.,SIA,28,7,8,9-10,11-13
+BCS,El jurado eligió al vocalista que llevó justamente el grupo al premio final.,The committee chose the vocalist that the band led justly to the final prize.,OAA,28,7,8,9-10,11-13
+BCS,El jurado eligió la canción que llevó justamente el grupo al premio final.,The committee chose the song that the band led justly to the final prize.,OIA,28,7,8,9-10,11-13
+BCS,Tiraron tomates al secretario que llevaba esa tarde al diplomático al mitin.,They threw tomatoes at the secretary that took the diplomat to the rally this afternoon.,SAA,29,6,7-8,9-10,11-12
+BCS,Tiraron tomates al coche que llevaba esa tarde al diplomático al mitin.,They threw tomatoes at the car that took the diplomat to the rally this afternoon.,SIA,29,6,7-8,9-10,11-12
+BCS,Tiraron tomates al secretario que llevaba esa tarde el diplomático al mitin.,They threw tomatoes at the secretary that the diplomat took to the rally this afternoon.,OAA,29,6,7-8,9-10,11-12
+BCS,Tiraron tomates al coche que llevaba esa tarde el diplomático al mitin.,They threw tomatoes at the car that the diplomat carried to the rally this afternoon.,OIA,29,6,7-8,9-10,11-12
+BCS,Denunciaron al millonario que apoyó económicamente al equipo de inversores.,They denounced the millionaire that economically supported the team of investors.,SAA,30,5,6,7-8,9-10
+BCS,Denunciaron el presupuesto que apoyó económicamente al equipo de inversores.,They denounced the budget that economically supported the team of investors.,SIA,30,5,6,7-8,9-10
+BCS,Denunciaron al millonario que apoyó económicamente el equipo de inversores.,They denounced the millionaire that the team of investors economically supported.,OAA,30,5,6,7-8,9-10
+BCS,Denunciaron el presupuesto que apoyó económicamente el equipo de inversores.,They denounced the budget that the team of investors economically supported.,OIA,30,5,6,7-8,9-10
+BCS,El reportero conocía al político que captó rápidamente al público en el mitin.,The reporter knew the politician that quickly captured the attention of the audience at the rally.,SAA,31,7,8,9-10,11-13
+BCS,El reportero conocía el discurso que captó rápidamente al público en el mitin.,The reporter knew the speech that quickly captured the attention of the audience at the rally.,SIA,31,7,8,9-10,11-13
+BCS,El reportero conocía al político que captó rápidamente el público en el mitin.,The reporter knew the politician that the audience quickly captured the attention of at the rally.,OAA,31,7,8,9-10,11-13
+BCS,El reportero conocía el discurso que captó rápidamente el público en el mitin.,The reporter knew the speech that the audience quickly grasped at the rally.,OIA,31,7,8,9-10,11-13
+BCS,El público aplaudió al jugador que superó fácilmente al defensa en el partido.,The audience applauded the player that easily overcame the defence at the match.,SAA,32,7,8,9-10,11-13
+BCS,El público aplaudió la jugada que superó fácilmente al defensa en el partido.,The audience applauded the movement that easily overcame the defence at the match.,SIA,32,7,8,9-10,11-13
+BCS,El público aplaudió al jugador que superó fácilmente el defensa en el partido.,The audience applauded the player that the defence easily overcame at the match.,OAA,32,7,8,9-10,11-13
+BCS,El público aplaudió la jugada que superó fácilmente el defensa en el partido.,The audience applauded the movement that the defence easily overcame at the match.,OIA,32,7,8,9-10,11-13
+BCS,Encontraron al terrorista que disparó violentamente al policía en el atentado.,They found the terrorist that violently shot the policeman in the attack.,SAA,33,5,6,7-8,9-11
+BCS,Encontraron el arma que disparó violentamente al policía en el atentado.,They found the weapon that violently shot the policeman in the attack.,SIA,33,5,6,7-8,9-11
+BCS,Encontraron al terrorista que disparó violentamente el policía en el atentado.,They found the terrorist that the police violently shot in the attack.,OAA,33,5,6,7-8,9-11
+BCS,Encontraron el arma que disparó violentamente el policía en el atentado.,They found the weapon that the police violently shot in the attack.,OIA,33,5,6,7-8,9-11
+BCS,Vieron al camionero que empujó brutalmente al conductor fuera de la vía.,They saw the trucker that brutally pushed the driver out of the way.,SAA,34,5,6,7-8,9-12
+BCS,Vieron al coche que empujó brutalmente al conductor fuera de la vía.,They saw the car that brutally pushed the driver out of the way.,SIA,34,5,6,7-8,9-12
+BCS,Vieron al camionero que empujó brutalmente el conductor fuera de la vía.,They saw the trucker that the driver brutally pushed out of the way.,OAA,34,5,6,7-8,9-12
+BCS,Vieron al coche que empujó brutalmente el conductor fuera de la vía.,They show the car that the driver brutally pushed out of the way.,OIA,34,5,6,7-8,9-12
+BCS,Acabaron con el soplón que descubrió sagazmente al agente de seguridad nacional.,They finished with the informer that astutely discovered the agent of national security.,SAA,35,6,7,8-9,10-12
+BCS,Acabaron con la conspiración que descubrió sagazmente al agente de seguridad nacional.,They finished with the conspiracy that astutely revealed the agent of national security.,SIA,35,6,7,8-9,10-12
+BCS,Acabaron con el soplón que descubrió sagazmente el agente de seguridad nacional.,They finished with the informer that the agent of national security astutely discovered.,OAA,35,6,7,8-9,10-12
+BCS,Acabaron con la conspiración que descubrió sagazmente el agente de seguridad nacional.,They finished with the conspiracy that the agent of national security astutely discovered.,OIA,35,6,7,8-9,10-12
+BCS,Promocionaron al novato que ganó esa semana al ajedrecista en el campeonato.,They promoted the rookie that beat the chess player in the championship this week.,SAA,36,5,6-7,8-9,10-12
+BCS,Promocionaron el ordenador que ganó esa semana el ajedrecista en el campeonato.,They promoted the computer that beat the chess player in the championship this week.,SIA,36,5,6-7,8-9,10-12
+BCS,Promocionaron al novato que ganó esa semana el ajedrecista en el campeonato.,They promoted the rookie that the chess player beat this week in the championship.,OAA,36,5,6-7,8-9,10-12
+BCS,Promocionaron el ordenador que ganó esa semana al ajedrecista en el campeonato.,They promoted the computer that the chess player beat this week in the championship.,OIA,36,5,6-7,8-9,10-12

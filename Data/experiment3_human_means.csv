@@ -1,0 +1,5 @@
+Type,Region1_Surprisal,Region2_Surprisal,Region3_Surprisal,SE_Region1_Surprisal,SE_Region2_Surprisal,SE_Region3_Surprisal
+fullNP_OVS,655.49,716.12,647.25,214.6,319.5,248.2
+fullNP_OSV,767.19,801.28,864.82,332.6,463.04,512.6
+proNP_OSV,632.91,699.18,576.04,254.27,353.4,144.3
+proNP_OVS,763.72,749.9,636.57,398.21,373.3,399.9

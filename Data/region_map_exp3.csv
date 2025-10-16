@@ -1,0 +1,49 @@
+Country,Text,Translation,Type,Item,Scene,Region1,Region2,Region3
+reali,La araña que persiguieron los sapos comió la mosca,The spider that the frogs chased ate the fly,fullNP_OVS,1,1,4-6,6,7
+reali,La araña que los sapos persiguieron comió la mosca,The spider that the frogs chased ate the fly,fullNP_OSV,1,1,4-6,6,7
+reali,La araña que nosotros perseguimos comió la mosca,The spider that we chased ate the fly,proNP_OSV,1,1,4-5,5,6
+reali,La araña que perseguimos nosotros comió la mosca,The spider that we chased ate the fly,proNP_OVS,1,1,4-5,5,6
+reali,El gobernador que llamaron los secretarios defraudó al embajador,The governor that the secretaries called let down the ambassador.,fullNP_OVS,2,2,4-6,6,7
+reali,El gobernador que los secretarios llamaron defraudó al embajador,The governor that the secretaries called let down the ambassador.,fullNP_OSV,2,2,4-6,6,7
+reali,El gobernador que nosotros llamamos defraudó al embajador,The governor that we called let down the ambassador,proNP_OSV,2,2,4-5,5,6
+reali,El gobernador que llamamos nosotros defraudó al embajador,The governor that we called let down the ambassador,proNP_OVS,2,2,4-5,5,6
+reali,El panadero que felicitaron los carniceros odiaba al alcalde,The baker that the butchers praised hated the mayor.,fullNP_OVS,3,3,4-6,6,7
+reali,El panadero que los carniceros felicitaron odiaba al alcalde,The baker that the butchers praised hated the mayor.,fullNP_OSV,3,3,4-6,6,7
+reali,El panadero que nosotros felicitamos odiaba al alcalde,The baker that we praised hated the mayor,proNP_OSV,3,3,4-5,5,6
+reali,El panadero que felicitamos nosotros odiaba al alcalde,The baker that we praised hated the mayor,proNP_OVS,3,3,4-5,5,6
+reali,La ardilla que asustaron los niños devoró la nuez,The squirrel that the children scared devoured the nut,fullNP_OVS,4,4,4-6,6,7
+reali,La ardilla que los niños asustaron devoró la nuez,The squirrel that the children scared devoured the nut,fullNP_OSV,4,4,4-6,6,7
+reali,La ardilla que nosotros asustamos devoró la nuez,The squirrel that we scared off devoured the nut,proNP_OSV,4,4,4-5,5,6
+reali,La ardilla que asustamos nosotros devoró la nuez,The squirrel that we scared off devoured the nut,proNP_OVS,4,4,4-5,5,6
+reali,El perro que temían las palomas mordió a la niña pequeña,The dog that the pigeons feared bit the little girl,fullNP_OVS,5,5,4-6,6,7
+reali,El perro que las palomas temí­an mordió a la niña pequeña,The dog that the pigeons feared bit the little girl,fullNP_OSV,5,5,4-6,6,7
+reali,El perro que nosotros temíamos mordió a la niña pequeña,The dog that we feared bit the little girl,proNP_OSV,5,5,4-5,5,6
+reali,El perro que temíamos nosotros mordió a la niña pequeña,The dog that we feared bit the little girl,proNP_OVS,5,5,4-5,5,6
+reali,El detective que contactaron los abogados dijo la verdad,The detective that the lawyers contacted told the truth,fullNP_OVS,6,6,4-6,6,7
+reali,El detective que los abogados contactaron dijo la verdad,The detective that the lawyers contacted told the truth,fullNP_OSV,6,6,4-6,6,7
+reali,El detective que nosotros contactamos dijo la verdad,,proNP_OSV,6,6,4-5,5,6
+reali,El detective que contactamos nosotros dijo la verdad,,proNP_OVS,6,6,4-5,5,6
+reali,El funcionario que ayudaron las recepcionistas admiraba mucho a su jefe,The employer that the receptionists helped admired his boss a lot.,fullNP_OVS,7,7,4-6,6,7
+reali,El funcionario que las recepcionistas ayudaron admiraba mucho a su jefe,The employer that the receptionists helped admired his boss a lot.,fullNP_OSV,7,7,4-6,6,7
+reali,El funcionario que nosotros ayudamos admiraba mucho a su jefe,,proNP_OSV,7,7,4-5,5,6
+reali,El funcionario que ayudamos nosotros admiraba mucho a su jefe,,proNP_OVS,7,7,4-5,5,6
+reali,El niño que encontraron los policí­as escondió la evidencia,The boy that the policemen met hid the evidence,fullNP_OVS,8,8,4-6,6,7
+reali,El niño que los policí­as encontraron escondió la evidencia,The boy that the policemen met hid the evidence,fullNP_OSV,8,8,4-6,6,7
+reali,El niño que nosotros encontramos escondió la evidencia,,proNP_OSV,8,8,4-5,5,6
+reali,El niño que encontramos nosotros escondió la evidencia,,proNP_OVS,8,8,4-5,5,6
+reali,El caballero que mencionaron los celadores olvidó traer sus llaves,The gentleman that the doormen mentioned forgot to bring his keys,fullNP_OVS,9,9,4-6,6,7
+reali,El caballero que los celadores mencionaron olvidó traer sus llaves,The gentleman that the doormen mentioned forgot to bring his keys,fullNP_OSV,9,9,4-6,6,7
+reali,El caballero que nosotros mencionamos se olvidó de traer sus llaves,,proNP_OSV,9,9,4-5,5,6
+reali,El caballero que mencionamos nosotros se olvidó de traer sus llaves,,proNP_OVS,9,9,4-5,5,6
+reali,El mesero que ofendieron los comensales detestaba al chef del restaurante,The waiter that the guests offended despised the restaurant chef,fullNP_OVS,10,10,4-6,6,7
+reali,El mesero que los comensales ofendieron detestaba al chef del restaurante,The waiter that the guests offended despised the restaurant chef,fullNP_OSV,10,10,4-6,6,7
+reali,El mesero que nosotros ofendimos detestaba al chef del restaurante,,proNP_OSV,10,10,4-5,5,6
+reali,El mesero que ofendimos nosotros detestaba al chef del restaurante,,proNP_OVS,10,10,4-5,5,6
+reali,El enfermero que buscaban los médicos trataba muy bien a los pacientes,The nurse that the doctors looked for treated the patients very nicely,fullNP_OVS,11,11,4-6,6,7
+reali,El enfermero que los médicos buscaban trataba muy bien a los pacientes,The nurse that the doctors looked for treated the patients very nicely,fullNP_OSV,11,11,4-6,6,7
+reali,El enfermero que nosotros buscábamos trataba muy bien a los pacientes,,proNP_OSV,11,11,4-5,5,6
+reali,El enfermero que buscábamos nosotros trataba muy bien a los pacientes,,proNP_OVS,11,11,4-5,5,6
+reali,El ratón que atraparon los gatos era astuto y veloz,The mouse that the cats caught was fast and clever,fullNP_OVS,12,12,4-6,6,7
+reali,El ratón que los gatos atraparon era astuto y veloz,The mouse that the cats caught was fast and clever,fullNP_OSV,12,12,4-6,6,7
+reali,El ratón que nosotros atrapamos era astuto y veloz,,proNP_OSV,12,12,4-5,5,6
+reali,El ratón que atrapamos nosotros era astuto y veloz,,proNP_OVS,12,12,4-5,5,6

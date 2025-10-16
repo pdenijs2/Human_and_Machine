@@ -1,0 +1,61 @@
+Country,Item,Text,Type,Region1,Region2,Region3,Region4
+DelRio,1,El cadete que insultó al coronel estuvo en el calabozo.,Subject,3,4-5,6,7
+DelRio,1,El cadete al que el coronel insultó estuvo en el calabozo.,Object-Topicalized,3,5-6,7,8
+DelRio,1,El cadete al que insultó el coronel estuvo en el calabozo.,Object-Subject-Inversion,3,5-6,7,8
+DelRio,2,El sacerdote que rescató al muchacho nadaba en el río.,Subject,3,4-5,6,7
+DelRio,2,El sacerdote al que el muchacho rescató nadaba en el río.,Object-Topicalized,3,5-6,7,8
+DelRio,2,El sacerdote al que rescató el muchacho nadaba en el río.,Object-Subject-Inversion,3,5-6,7,8
+DelRio,3,El cantante que empujó al escritor conduce un coche rojo.,Subject,3,4-5,6,7
+DelRio,3,El cantante al que el escritor empujó conduce un coche rojo.,Object-Topicalized,3,5-6,7,8
+DelRio,3,El cantante al que empujó el escritor conduce un coche rojo.,Object-Subject-Inversion,3,5-6,7,8
+DelRio,4,El marinero que ofendió al concejal odia a los políticos.,Subject,3,4-5,6,7
+DelRio,4,El marinero al que el concejal ofendió odia a los políticos.,Object-Topicalized,3,5-6,7,8
+DelRio,4,El marinero al que ofendió el concejal odia a los políticos.,Object-Subject-Inversion,3,5-6,7,8
+DelRio,5,El joyero que delató al perista confiaba en la justicia.,Subject,3,4-5,6,7
+DelRio,5,El joyero al que el perista delató confiaba en la justicia.,Object-Topicalized,3,5-6,7,8
+DelRio,5,El joyero al que delató el perista confiaba en la justicia.,Object-Subject-Inversion,3,5-6,7,8
+DelRio,6,El político que elogiaba al ciclista tuvo un grave percance.,Subject,3,4-5,6,7
+DelRio,6,El político al que el ciclista elogiaba tuvo un grave percance.,Object-Topicalized,3,5-6,7,8
+DelRio,6,El político al que elogiaba el ciclista tuvo un grave percance.,Object-Subject-Inversion,3,5-6,7,8
+DelRio,7,El anciano que agredió al borracho paseaba por la calle.,Subject,3,4-5,6,7
+DelRio,7,El anciano al que el borracho agredió paseaba por la calle.,Object-Topicalized,3,5-6,7,8
+DelRio,7,El anciano al que agredió el borracho paseaba por la calle.,Object-Subject-Inversion,3,5-6,7,8
+DelRio,8,El alcalde que recibió al empresario declarará ante el juez.,Subject,3,4-5,6,7
+DelRio,8,El alcalde al que el empresario recibió declarará ante el juez.,Object-Topicalized,3,5-6,7,8
+DelRio,8,El alcalde al que recibió el empresario declarará ante el juez.,Object-Subject-Inversion,3,5-6,7,8
+DelRio,9,El detective que buscaba al abogado entró en la cafetería.,Subject,3,4-5,6,7
+DelRio,9,El detective al que el abogado buscaba entró en la cafetería.,Object-Topicalized,3,5-6,7,8
+DelRio,9,El detective al que buscaba el abogado entró en la cafetería.,Object-Subject-Inversion,3,5-6,7,8
+DelRio,10,El biólogo que visitó al quí­mico trabaja para la ONU.,Subject,3,4-5,6,7
+DelRio,10,El biólogo al que el quí­mico visitó trabaja para la ONU.,Object-Topicalized,3,5-6,7,8
+DelRio,10,El biólogo al que visitó el quí­mico trabaja para la ONU.,Object-Subject-Inversion,3,5-6,7,8
+DelRio,11,El taxista que informó al vecino conocía bien el barrio.,Subject,3,4-5,6,7
+DelRio,11,El taxista al que el vecino informó conocía bien el barrio.,Object-Topicalized,3,5-6,7,8
+DelRio,11,El taxista al que informó el vecino conocía bien el barrio.,Object-Subject-Inversion,3,5-6,7,8
+DelRio,12,El periodista que atacó al senador reconoció finalmente su error.,Subject,3,4-5,6,7
+DelRio,12,El periodista al que el senador atacó reconoció finalmente su error.,Object-Topicalized,3,5-6,7,8
+DelRio,12,El periodista al que atacó el senador reconoció finalmente su error.,Object-Subject-Inversion,3,5-6,7,8
+DelRio,13,El mafioso que protege al empresario conduce un deportivo rojo.,Subject,3,4-5,6,7
+DelRio,13,El mafioso al que el empresario protege conduce un deportivo rojo.,Object-Topicalized,3,5-6,7,8
+DelRio,13,El mafioso al que protege el empresario conduce un deportivo rojo.,Object-Subject-Inversion,3,5-6,7,8
+DelRio,14,El fiscal que investiga al reportero ejerció durante la dictadura.,Subject,3,4-5,6,7
+DelRio,14,El fiscal al que el reportero investiga ejerció durante la dictadura.,Object-Topicalized,3,5-6,7,8
+DelRio,14,El fiscal al que investiga el reportero ejerció durante la dictadura.,Object-Subject-Inversion,3,5-6,7,8
+DelRio,15,El farmacéutico que asesoró al economista montará una cadena comercial.,Subject,3,4-5,6,7
+DelRio,15,El farmacéutico al que el economista asesoró montará una cadena comercial.,Object-Topicalized,3,5-6,7,8
+DelRio,15,El farmacéutico al que asesoró el economista montará una cadena comercial.,Object-Subject-Inversion,3,5-6,7,8
+DelRio,16,El motorista que adelantó al camionero viajaba hacia el camping.,Subject,3,4-5,6,7
+DelRio,16,El motorista al que el camionero adelantó viajaba hacia el camping.,Object-Topicalized,3,5-6,7,8
+DelRio,16,El motorista al que adelantó el camionero viajaba hacia el camping.,Object-Subject-Inversion,3,5-6,7,8
+DelRio,17,El traficante que delató al cómplice escapó de la cárcel.,Subject,3,4-5,6,7
+DelRio,17,El traficante al que el cómplice delató escapó de la cárcel.,Object-Topicalized,3,5-6,7,8
+DelRio,17,El traficante al que delató el cómplice escapó de la cárcel.,Object-Subject-Inversion,3,5-6,7,8
+DelRio,18,El fotógrafo que admira al pintor expuso en la galería.,Subject,3,4-5,6,7
+DelRio,18,El fotógrafo al que el pintor admira expuso en la galería.,Object-Topicalized,3,5-6,7,8
+DelRio,18,El fotógrafo al que admira el pintor expuso en la galería.,Object-Subject-Inversion,3,5-6,7,8
+DelRio,19,El vigilante que lesionó al atracador testificó para la policía.,Subject,3,4-5,6,7
+DelRio,19,El vigilante al que el atracador lesionó testificó para la policía.,Object-Topicalized,3,5-6,7,8
+DelRio,19,El vigilante al que lesionó el atracador testificó para la policía.,Object-Subject-Inversion,3,5-6,7,8
+DelRio,20,El policía que criticó al comisario vive en el barrio.,Subject,3,4-5,6,7
+DelRio,20,El policía al que el comisario criticó vive en el barrio.,Object-Topicalized,3,5-6,7,8
+DelRio,20,El policía al que criticó el comisario vive en el barrio.,Object-Subject-Inversion,3,5-6,7,8
