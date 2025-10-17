@@ -208,3 +208,36 @@ print(f"Delta R^2: {observed_delta}")
 #10 Permutations Test
 #create perumation function
 
+def permutation_test_delta_r2(X_baseline, X_target, y):
+    
+    #Get r^2 values
+    r2_baseline = cross_val(X_baseline, y)
+    r2_target = cross_val(X_target, y)
+    observed_delta = r2_target - r2_baseline
+    
+    # do the permutation
+    n_permutations = 1000
+    perm_deltas = np.zeros(n_permutations)
+    
+    surprisal_cols = [-3, -2, -1]
+
+     #for each premutation
+    for i in range(n_permutations):
+        X_permuted = X_target.copy()
+        for col_idx in surprisal_cols:
+            X_permuted[:, col_idx] = np.random.permutation(X_permuted[:, col_idx])
+            
+        r2_baseline_perm = cross_val(X_baseline, y)
+        r2_target_perm = cross_val(X_permuted, y)
+        perm_deltas[i] = r2_target_perm - r2_baseline_perm
+        
+        #calculate p values
+        p_value = np.mean(perm_deltas >= observed_delta)
+        
+        return observed_delta, p_value
+
+#run the test    
+    observed_delta, p_value = permutation_test_delta_r2(X_baseline, X_target, y)
+
+    print(f"Observed r^2: {observed_delta}")
+    print(f"p-value: {p_value}")
