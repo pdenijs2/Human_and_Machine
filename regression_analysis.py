@@ -237,7 +237,7 @@ def permutation_test_delta_r2(X_baseline, X_target, y):
         return observed_delta, p_value
 
 #run the test    
-    observed_delta, p_value = permutation_test_delta_r2(X_baseline, X_target, y)
+observed_delta, p_value = permutation_test_delta_r2(X_baseline, X_target, y)
 
-    print(f"Observed r^2: {observed_delta}")
-    print(f"p-value: {p_value}")
+print(f"Observed r^2: {observed_delta}")
+print(f"p-value: {p_value}")
