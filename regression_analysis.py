@@ -119,15 +119,28 @@ word_df['log_freq'] = word_df['word'].apply(lambda w: calculate_log_frequency(w,
 #check for freqs
 print(word_df[['word', 'length', 'log_freq']].head(10))
 
+#6. Use mean readign times
+
+agg_df = word_df.groupby(['item', 'condition', 'position', 'word']).agg({
+    'rt': 'mean',
+    'surprisal': 'first',
+    'length': 'first',
+    'log_freq': 'first'
+}).reset_index()
+
+#check agg_df
+print(f"{len(agg_df)}")
+print(agg_df.head(10))
+
 #5. Get the spillovr predictors (one and two before)
 def add_spillover(df):
-    df = df.sort_values(['subject', 'item', 'position']).copy()
+    df = df.sort_values(['item', 'condition', 'position']).copy()
 
 #get features for previous two words
     for lag in [1, 2]:
-        df[f'length_lag{lag}'] = df.groupby(['subject', 'item'])['length'].shift(lag)
-        df[f'log_freq_lag{lag}'] = df.groupby(['subject', 'item'])['log_freq'].shift(lag)
-        df[f'surprisal_lag{lag}'] = df.groupby(['subject', 'item'])['surprisal'].shift(lag)
+        df[f'length_lag{lag}'] = df.groupby(['item', 'condition'])['length'].shift(lag)
+        df[f'log_freq_lag{lag}'] = df.groupby(['item', 'condition'])['log_freq'].shift(lag)
+        df[f'surprisal_lag{lag}'] = df.groupby(['item', 'condition'])['surprisal'].shift(lag)
 
 #first words don't have previous words
     lag_cols = [col for col in df.columns if 'lag' in col]
@@ -136,28 +149,9 @@ def add_spillover(df):
     return df
 
 #combine into word df
-word_df = add_spillover(word_df)
+agg_df = add_spillover(agg_df)
 
-#6. Use mean readign times
-
-agg_df = word_df.groupby(['item', 'condition', 'position', 'word']).agg({
-    'rt': 'mean',
-    'surprisal': 'first',
-    'length': 'first',
-    'log_freq': 'first',
-    'length_lag1': 'first',
-    'log_freq_lag1': 'first',
-    'surprisal_lag1': 'first',
-    'length_lag2': 'first',
-    'log_freq_lag2': 'first',
-    'surprisal_lag2': 'first'
-}).reset_index()
-
-
-
-#check agg_df
-print(f"{len(agg_df)}")
-print(agg_df.head(10))
+agg_df.to_csv("Data/agg_df.csv", index=False)
 
 #7. Get numpy arrays
 #baseline
